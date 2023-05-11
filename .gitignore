@@ -1,0 +1,12 @@
+# Directories
+build
+external/*
+!external/igl
+!external/glad
+!external/OBJ_Loader
+igl/doc
+.vs
+.idea
+.cache
+
+# Files
